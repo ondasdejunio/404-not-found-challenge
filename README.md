@@ -59,7 +59,7 @@ This application/site was created as a submission to a [DevChallenges](https://d
 - [Marked - a markdown parser](https://github.com/chjj/marked)
 
 
-## Contact me
+## Contact
 
 - Website [ondasdejunio.github.io](https://ondasdejunio.github.io)
 - GitHub [@ondasdejunio](https://github.com/ondasdejunio)
